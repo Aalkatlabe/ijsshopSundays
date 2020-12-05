@@ -1,0 +1,7 @@
+C:\Users\Alaa Alkatlabe\Source\Repos\Ijs-shop-Sunday\Ijs-shop-Sunday\bin\Debug\Ijs-shop-Sunday.exe.config
+C:\Users\Alaa Alkatlabe\Source\Repos\Ijs-shop-Sunday\Ijs-shop-Sunday\bin\Debug\Ijs-shop-Sunday.exe
+C:\Users\Alaa Alkatlabe\Source\Repos\Ijs-shop-Sunday\Ijs-shop-Sunday\bin\Debug\Ijs-shop-Sunday.pdb
+C:\Users\Alaa Alkatlabe\Source\Repos\Ijs-shop-Sunday\Ijs-shop-Sunday\obj\Debug\Ijs-shop-Sunday.csprojAssemblyReference.cache
+C:\Users\Alaa Alkatlabe\Source\Repos\Ijs-shop-Sunday\Ijs-shop-Sunday\obj\Debug\Ijs-shop-Sunday.csproj.CoreCompileInputs.cache
+C:\Users\Alaa Alkatlabe\Source\Repos\Ijs-shop-Sunday\Ijs-shop-Sunday\obj\Debug\Ijs-shop-Sunday.exe
+C:\Users\Alaa Alkatlabe\Source\Repos\Ijs-shop-Sunday\Ijs-shop-Sunday\obj\Debug\Ijs-shop-Sunday.pdb
